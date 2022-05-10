@@ -1,7 +1,7 @@
 # AWS_CloudFormation
 Infrastructure as Code using the AWS Cloud Formation
 
-# Terraform
+# AWS CloudFormation
 Welcome to the Infrastructure as Code simplified using the AWS Cloud Formation
 
 This repo contains all the code & ppt files used throughout the Cloud Formation - Beginner to Advanced course.
